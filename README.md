@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/nikosgkontas/nikosgkontas/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Hey! I'm Nikos Gkontas</h1>
 
 ###
