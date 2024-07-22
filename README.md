@@ -6,11 +6,13 @@
 
 ###
 
-<h6 align="left">I have a master's degree in mathematics. I am a highly motivated and curious individual with a passion for learning. I currently work as an IT instructor and I study for my second Master's degree in Data Science and Machine Learning.</h6>
+<h6 align="left">I have a master's degree in mathematics. I am a highly motivated and curious individual with a passion for learning. 
+I study for my Master's degree in Data Science and Machine Learning.</h6>
 
 ###
 
-<h6 align="left">I recently started to create in GitHub, eventhough I code for many years; so go easy on me!<br>I mostly use Matlab, Python, and Sagemath.</h6>
+<h6 align="left">I recently started to create in GitHub, eventhough I code for many years. 
+I try to upload whenever I have the time to do, so go easy on me!<br>I mostly use Matlab, Python, and Sagemath.</h6>
 
 ###
 
