@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Mathematician, MSc | IT Instructor | Data Enthusiast</h3>
+<h3 align="left">Mathematician, MSc | Data Enthusiast</h3>
 
 ###
 
