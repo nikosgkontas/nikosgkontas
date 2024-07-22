@@ -11,7 +11,7 @@ I study for my Master's degree in Data Science and Machine Learning.</h6>
 
 ###
 
-<h6 align="center">I recently started to create in GitHub, eventhough I code for many years. 
+<h6 align="left">I recently started to create in GitHub, eventhough I code for many years. 
   <br>
 I try to upload whenever I have the time to do, so go easy on me!
 <br>
@@ -29,7 +29,7 @@ I mostly use Matlab, Python, and Sagemath.</h6>
 
 ###
 
-<p align="left">For more information and ways to contact me, please visit my LinkedIn profile:</p>
+<p align="center">For more information and ways to contact me, please visit my LinkedIn profile:</p>
 
 ###
 
