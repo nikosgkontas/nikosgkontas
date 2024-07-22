@@ -6,8 +6,8 @@
 
 ###
 
-<h6 align="left">I have a master's degree in mathematics. I am a highly motivated and curious individual with a passion for learning. 
-I study for my Master's degree in Data Science and Machine Learning.</h6>
+<p align="left">I have a master's degree in mathematics. I am a highly motivated and curious individual with a passion for learning. 
+I study for my Master's degree in Data Science and Machine Learning.</p>
 
 ###
 
