@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have a master's degree in mathematics. I study for my Master's degree in Data Science and Machine Learning.</p>
+<p align="left">I have a master's degree in mathematics and I study for my Master's degree in Data Science and Machine Learning.</p>
 
 ###
 
