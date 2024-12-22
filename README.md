@@ -1,4 +1,4 @@
-<h1 align="left">Hey! I'm Nick Gkontas</h1>
+<h1 align="left">Hey! I'm Nikos Gkontas</h1>
 
 ###
 
