@@ -6,16 +6,15 @@
 
 ###
 
-<p align="left">I have a master's degree in mathematics. I am a highly motivated and curious individual with a passion for learning. 
-I study for my Master's degree in Data Science and Machine Learning.</p>
+<p align="left">I have a master's degree in mathematics. I study for my Master's degree in Data Science and Machine Learning.</p>
 
 ###
 
-<h6 align="left">I recently started to create in GitHub, eventhough I code for many years. 
+<h6 align="left">I recently started to create in GitHub. 
   <br>
 I try to upload whenever I have the time to do, so go easy on me!
 <br>
-I mostly use Matlab, Python, and Sagemath.</h6>
+I mostly use Python, R, and workflow automation platforms like Alteryx.</h6>
 
 ###
 
@@ -24,7 +23,7 @@ I mostly use Matlab, Python, and Sagemath.</h6>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="matlab logo"  />
 </div>
 
 ###
